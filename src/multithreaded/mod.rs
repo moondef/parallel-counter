@@ -1,7 +1,4 @@
-use std::{
-    fs,
-    thread::{self},
-};
+use std::{fs, thread};
 
 use crate::lib::counter::{Counter, CounterMap};
 
